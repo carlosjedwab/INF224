@@ -5,6 +5,8 @@ Date: 2023-02-19
 
 Copyright (c) 2023
 
+[Link to project's description](https://perso.telecom-paristech.fr/elc/inf224/)
+
 ## Important Notes
 
 ### Execution
